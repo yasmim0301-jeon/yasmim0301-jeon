@@ -3,6 +3,7 @@
 Meu nome é Yasmim Saes
 
 -Estou estudando na Alura;
+
 -Estou me desenvolvendo na linguagem JavaScript;
 
 ### Você entrar em contato comigo!📫
