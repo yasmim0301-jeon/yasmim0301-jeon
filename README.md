@@ -6,6 +6,6 @@ Meu nome é Yasmim Saes
 
 -Estou me desenvolvendo na linguagem JavaScript;
 
-### Você entrar em contato comigo!📫
+### Você pode entrar em contato comigo!📫
 
 00001111594880SP@al.educacao.sp.gov.br 
